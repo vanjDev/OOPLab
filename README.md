@@ -39,5 +39,3 @@ The program demonstrates fundamental OOP and programming concepts like **methods
 - Computes and displays the **Cumulative GPA (CGPA)**.  
 
 ---
-
-## 🖥️ Sample Menu
